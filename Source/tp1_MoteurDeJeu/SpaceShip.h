@@ -43,7 +43,8 @@ protected:
 
 	// Réglages (ajustables dans le Blueprint)
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Vaisseau")
-	float MoveSpeed = 1220.f;
+	
+	float MoveSpeed = 1200.f;
 
 	// Demi-dimensions de la zone de jeu (X = haut/bas, Y = gauche/droite)
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Vaisseau")
