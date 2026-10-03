@@ -1,0 +1,12 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.slnx
+*.suo
+*.VC.db
+*.VC.opendb
